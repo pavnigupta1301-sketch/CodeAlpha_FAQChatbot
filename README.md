@@ -155,7 +155,7 @@ User Question
 
 | Home Screen | Chat in Action |
 |---|---|
-| ![Home](assets/screenshot_home.png) | ![Chat](assets/screenshot_chat.png) |
+| ![Home](screenshot_home.png) | ![Chat](screenshot_chat.png) |
 
 ---
 
